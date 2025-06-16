@@ -283,13 +283,12 @@
     if (typedEl) {
       new Typed(typedEl, {
         strings: [
-          '<span class="highlight">WordPress</span> Developer',
           '<span class="highlight">Web</span> Developer',
+          '<span class="highlight">CMS</span> Developer',
           '<span class="highlight">Frontend</span> Developer',
           '<span class="highlight">Backend</span> Developer',
           '<span class="highlight">App</span> Developer',
-          '<span class="highlight">Web</span> Developer',
-          '<span class="highlight">CMS</span> Developer',
+          '<span class="highlight">Web</span> Designer',
         ],
         typeSpeed: 120,
         backSpeed: 60,
